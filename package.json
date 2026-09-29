@@ -1,0 +1,22 @@
+{
+  "name": "traceshield-ai",
+  "version": "1.0.0",
+  "description": "TraceShield AI — Real-Time Identification of Fraud-Linked Cryptocurrency Exchanges from Victim-Reported Suspect Wallet Addresses through Automated Blockchain Analytics",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "start": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "blockchain",
+    "cybersecurity",
+    "ethereum",
+    "smart-india-hackathon",
+    "mha",
+    "forensics",
+    "graph-analytics"
+  ],
+  "author": "TraceShield AI Team",
+  "license": "MIT"
+}
