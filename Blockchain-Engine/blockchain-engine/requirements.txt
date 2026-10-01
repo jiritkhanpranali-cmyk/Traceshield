@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+web3
+python-dotenv
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+networkx
+httpx
+websockets
